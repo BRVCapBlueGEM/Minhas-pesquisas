@@ -18,3 +18,28 @@ Links de pesquisas e referências.
 ## Processamento e restauração de imagens
 
 - [OpenCV — Processamento de imagens, detecção de linhas e restauração (Inpainting)](https://github.com/opencv/opencv)
+
+## Mesas digitalizadoras XP-Pen — ferramentas independentes
+
+Pesquisa de programas, drivers alternativos e scripts de código aberto para configurar mesas digitalizadoras XP-Pen sem depender do aplicativo proprietário do fabricante.
+
+### Projetos e pesquisas no GitHub
+
+- [OpenTabletDriver — Projeto de driver alternativo](https://github.com/OpenTabletDriver/OpenTabletDriver)
+- [Pesquisar projetos XP-Pen](https://github.com/search?q=xp-pen&type=repositories)
+- [Pesquisar drivers alternativos para mesas digitalizadoras](https://github.com/search?q=tablet+driver&type=repositories)
+- [Pesquisar ferramentas de rotação e remapeamento](https://github.com/search?q=tablet+rotation&type=repositories)
+- [Pesquisar AetherGUI](https://github.com/search?q=AetherGUI&type=repositories)
+
+### Objetivos da pesquisa
+
+- Rotação de 180° para utilização por canhotos.
+- Remapeamento dos movimentos X e Y da caneta.
+- Configuração dos botões físicos.
+- Identificação e gerenciamento da conexão USB.
+- Funcionamento no Windows sem o aplicativo proprietário XP-Pen.
+
+**Hardware de referência:** `VID_28BD&PID_0918`.
+
+**Estado:** projetos e pesquisas para avaliação. A compatibilidade específica, as dependências e o funcionamento ainda precisam ser verificados.
+
