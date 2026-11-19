@@ -106,3 +106,53 @@ Os cinco repositórios foram identificados como possíveis fontes de software ou
 - Kuri Userspace Tablet Driver Daemon.
 
 **Estado de validação:** levantamento documental. Os programas ainda não foram examinados integralmente, compilados ou testados com o hardware `VID_28BD&PID_0918`.
+
+
+## 🗺️ Cartografia Digital — OpenStreetMap, PostGIS, Mapnik e Kosmtik
+
+**Finalidade:** pesquisa de ferramentas, linguagens e tecnologias para criação, processamento, estilização e representação de mapas geográficos e vetoriais.
+
+### Dados geográficos
+
+**OpenStreetMap (OSM)** — base colaborativa de dados geográficos.  
+https://www.openstreetmap.org/
+
+**Geofabrik** — download de dados OSM por regiões.  
+https://download.geofabrik.de/
+
+### Bancos de dados e processamento
+
+**PostgreSQL** — sistema de gerenciamento de bancos de dados.  
+https://github.com/postgres/postgres
+
+**PostGIS** — extensão espacial do PostgreSQL.  
+https://github.com/postgis/postgis
+
+**osm2pgsql** — importação de arquivos OSM para PostgreSQL/PostGIS.  
+https://github.com/osm2pgsql-dev/osm2pgsql
+
+**SQL** — linguagem de consultas e manipulação de bancos de dados.
+
+### Estilos cartográficos e renderização
+
+**OpenStreetMap Carto** — estilos, cores, padrões e símbolos utilizados na representação cartográfica.  
+https://github.com/openstreetmap-carto/openstreetmap-carto
+
+**CartoCSS** — linguagem para definir estilos cartográficos.  
+https://github.com/mapbox/carto
+
+**Mapnik** — motor de renderização de mapas.  
+https://github.com/mapnik/mapnik
+
+**Kosmtik** — ambiente de desenvolvimento e visualização de estilos cartográficos.  
+https://github.com/kosmtik/kosmtik
+
+### Edição cartográfica e vetorial
+
+**QGIS** — processamento, análise e representação de dados geográficos.  
+https://github.com/qgis/QGIS
+
+**Inkscape** — edição vetorial e acabamento artístico de mapas SVG.  
+https://inkscape.org/
+
+**Autor:** BRV_Cap_Blue_GEM
