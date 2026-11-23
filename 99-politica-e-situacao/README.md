@@ -54,6 +54,7 @@ Antes de instalar um programa:
 | Cartografia clássica | Fluxo e ferramentas documentados | Integração pendente |
 | Cartografia vetorial moderna | Fluxo e ferramentas documentados | Integração pendente |
 | Comparação artística | Critérios definidos | Resultados pendentes |
+| Compilação de códigos-fonte | Método e links oficiais documentados em [08-compilacao-codigo-fonte](../08-compilacao-codigo-fonte/README.md) | Compilação e testes práticos pendentes |
 
 ## Próximas pesquisas
 
@@ -63,6 +64,7 @@ Antes de instalar um programa:
 - Confirmar compatibilidade das ferramentas XP-Pen com o hardware identificado.
 - Avaliar leitores digitais conforme formatos e recursos desejados.
 - Aprofundar exemplos documentados de processamento de imagens com OpenCV.
+- Validar os procedimentos documentados de obtenção e compilação de códigos-fonte com projetos concretos, mantendo originais e evidências.
 
 ---
 
@@ -85,6 +87,6 @@ As opções tecnológicas devem ser comparadas por suas capacidades reais, suas 
 ---
 
 **Autor:** BRV_Cap_Blue_GEM  
-**Documento:** Minhas pesquisas — índice v3.0  
-**Data da revisão:** 22/11/2026  
-**Estado:** catálogo reorganizado em páginas por área.
+**Documento:** Minhas pesquisas — política e situação (referência ao índice v3.1)  
+**Data da revisão:** 23/11/2026  
+**Estado:** política mantida; situação geral acrescida da área 8, sem testes presumidos.

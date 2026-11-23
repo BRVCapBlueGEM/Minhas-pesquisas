@@ -3,8 +3,8 @@
 **Catálogo de pesquisas técnicas, ferramentas, tecnologias e projetos de desenvolvimento.**
 
 **Autor:** BRV_Cap_Blue_GEM  
-**Versão documental:** 3.0  
-**Revisão:** 22/11/2026  
+**Versão documental:** 3.1  
+**Revisão:** 23/11/2026  
 **Finalidade:** documentação técnica, consulta e localização de fontes e distribuições oficiais.
 
 ---
@@ -56,6 +56,7 @@ Cada ficha técnica procura responder:
 | **5. Mesas XP-Pen** | Drivers e ferramentas independentes | [05-mesas-xp-pen](05-mesas-xp-pen/README.md) |
 | **6. Cartografia digital** | Visão geral, Arquitetura A e B, edição e comparação | [06-cartografia](06-cartografia/README.md) |
 | **7. Critérios artísticos** | Critérios para comparação artística futura | [07-criterios-artisticos](07-criterios-artisticos/README.md) |
+| **8. Compilação de códigos-fonte** | Obtenção de originais, ferramentas, estrutura de trabalho, compilação, segurança e validação, para qualquer projeto | [08-compilacao-codigo-fonte](08-compilacao-codigo-fonte/README.md) |
 | **Política e situação** | Versões estáveis, situação geral e conclusão | [99-politica-e-situacao](99-politica-e-situacao/README.md) |
 
 ### Cartografia — subpáginas
@@ -67,6 +68,15 @@ Cada ficha técnica procura responder:
 | [Arquitetura B](06-cartografia/arquitetura-b.md) | Tiles vetoriais, Maputnik e MapLibre |
 | [Edição vetorial](06-cartografia/edicao-vetorial.md) | Edição cartográfica e vetorial |
 | [Comparação dos fluxos](06-cartografia/comparacao-fluxos.md) | Comparação entre Arquiteturas A e B |
+
+### Compilação de códigos-fonte — subpáginas
+
+| Subpágina | Descrição |
+|----------|-----------|
+| [Ferramentas e downloads oficiais](08-compilacao-codigo-fonte/ferramentas-oficiais.md) | Compiladores, toolchains, sistemas de build, linguagens e dependências |
+| [Método de compilação](08-compilacao-codigo-fonte/metodo-de-compilacao.md) | Etapas comuns para obtenção, inspeção, construção e teste |
+| [Estrutura de diretórios](08-compilacao-codigo-fonte/estrutura-de-diretorios.md) | Modelo lógico reutilizável de originais, trabalho, builds e evidências |
+| [Segurança e validação](08-compilacao-codigo-fonte/seguranca-e-validacao.md) | Cadeia de suprimentos, scripts, endpoints, hashes, detecções e limites |
 
 ---
 
@@ -82,6 +92,7 @@ Cada ficha técnica procura responder:
 | Cartografia clássica (A) | Fluxo, inventário e ferramentas documentados | Integração Windows pendente |
 | Cartografia vetorial (B) | Fluxo e ferramentas documentados | Integração pendente |
 | Comparação artística | Critérios definidos | Resultados pendentes |
+| Compilação de códigos-fonte | Método geral, ferramentas e canais oficiais documentados | Builds, segurança operacional e compatibilidade pendentes |
 
 ---
 
@@ -94,6 +105,6 @@ Cada ficha técnica procura responder:
 ---
 
 **Autor:** BRV_Cap_Blue_GEM  
-**Documento:** Minhas pesquisas — índice v3.0  
-**Data da revisão:** 22/11/2026  
-**Estado:** reorganização em páginas por área; conteúdo preservado das fichas anteriores.
+**Documento:** Minhas pesquisas — índice v3.1  
+**Data da revisão:** 23/11/2026  
+**Estado:** páginas anteriores preservadas; seção transversal de compilação acrescentada com método e referências oficiais (sem execução prática).
