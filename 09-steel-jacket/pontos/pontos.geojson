@@ -224,10 +224,58 @@
         "incerteza_m": 250,
         "grau": "B",
         "metodo": "sirius_quadriculado",
-        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 235",
-        "restricao": "Na Akavish, no entroncamento com a estrada que vem de Missouri. DIVERGÊNCIA: Even & Maoz (p. 235) dizem 10 km até Matzmed, mas em linha reta já são 12,2 km (até Lakekan são 10,5 km). Conferir a página",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 230 e 235",
+        "restricao": "Na Akavish, perto do entroncamento Akavish-Tirtur. Even & Maoz p. 235: o comboio de botes andou 10 km de Akavish 53 até Lakekan (a tradução escreve \"Lago Kan\"); em linha reta são 10,5 km. O roteiro dizia \"até Matzmed\" por engano",
         "cenas": [
           13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.41969,
+          30.45261
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_42",
+        "nome": "Marco Akavish 42",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "igual_a:TIRTUR_42",
+        "fonte": "Even & Maoz p. 230; Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv",
+        "restricao": "O livro chama de \"Akavish 42\" o ponto onde o 890º foi atingido às 02h45 de 17/10. O batalhão avançou \"entre as duas estradas\" a partir do ponto 40; na Sirius, os pontos 40 e 42 estão sobre o Tirtur, a oeste da Akavish. A posição é a do ponto 42 da carta (TIRTUR_42)",
+        "cenas": [
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4342,
+          30.46801
+        ]
+      },
+      "properties": {
+        "id": "PONTO_40",
+        "nome": "Ponto 40 (linha de partida do 890º)",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 230",
+        "restricao": "O 890º saiu às 23h00 de 16/10 de Akavish 55 a pé até Akavish 52 e partiu em formação a partir do ponto 40, entre as duas estradas. Na Sirius o 40 está sobre o Tirtur",
+        "cenas": [
+          12
         ]
       }
     },
@@ -249,7 +297,7 @@
         "grau": "B",
         "metodo": "sirius_quadriculado",
         "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv",
-        "restricao": "Na estrada Tirtur (טרטור), 3,6 km a leste da Fazenda Chinesa. Candidato ao \"Akavish 42\" de Even & Maoz, onde o 890º foi atingido às 02h45 de 17/10",
+        "restricao": "Ponto 42 da Sirius, sobre o Tirtur, 3,6 km a leste da Fazenda Chinesa. É o \"Akavish 42\" de Even & Maoz (p. 230), onde o 890º foi atingido",
         "cenas": [
           12
         ]

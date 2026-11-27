@@ -32,6 +32,8 @@ CONFERENCIAS = [
      "Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia)"),
     ("MISSOURI", "FAZENDA_CHINESA", 2.0, 7.0,
      "Missouri fica logo ao norte e noroeste da Fazenda Chinesa (centro da área)"),
+    ("AKAVISH_53", "LAKEKAN", 8.0, 11.0,
+     "Even & Maoz p. 235: 10 km pela estrada de Akavish 53 até Lakekan"),
     ("TIRTUR_42", "FAZENDA_CHINESA", 1.0, 5.0,
      "O 890º foi atingido junto à Fazenda Chinesa"),
 ]
