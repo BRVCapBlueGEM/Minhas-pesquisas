@@ -187,6 +187,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.62419,
+          30.55686
+        ]
+      },
+      "properties": {
+        "id": "TASSA",
+        "nome": "Tassa (QG da 143ª)",
+        "tipo": "base",
+        "margem": "leste",
+        "incerteza_m": 1500,
+        "grau": "C",
+        "metodo": "sirius_candidato",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz",
+        "restricao": "CANDIDATO, NÃO CONFIRMADO: complexo de áreas 1-4 junto ao rótulo ציילון, onde termina a Akavish (3,6 km de Akavish 66). Fica a 30 km de Matzmed e a 53 km em linha reta de Refidim (o livro dá 75 km de ônibus). O nome Tassa não aparece escrito na Sirius",
+        "cenas": [
+          4,
+          5,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.53629,
+          30.53074
+        ]
+      },
+      "properties": {
+        "id": "YUKON",
+        "nome": "Yukon (pátio da ponte rolante)",
+        "tipo": "base",
+        "margem": "leste",
+        "incerteza_m": 1000,
+        "grau": "C",
+        "metodo": "sirius_rotulo",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 144",
+        "restricao": "Centro do rótulo יוקון (área, sem símbolo de posição). Fica a 21 km de Matzmed; o livro dá cerca de 20 km do canal",
+        "cenas": [
+          3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.49088,
           30.49586
         ]
@@ -356,6 +407,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.35651,
+          30.4342
+        ]
+      },
+      "properties": {
+        "id": "KM_95_5",
+        "nome": "Km 95,5 do canal (lançamento da ponte rolante)",
+        "tipo": "ponto_travessia",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 144 e 316",
+        "restricao": "A Sirius imprime a quilometragem do canal (ק\"מ 95, 98, 99, 100, 101); o 95,5 foi interpolado entre os traços. Fica 2,1 km ao norte do forte Matzmed e 14,6 km em linha reta de Akavish 55 (o livro dá 16 km)",
+        "cenas": [
+          9,
+          16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           32.4665,
           30.46042
         ]
@@ -372,6 +448,79 @@
         "restricao": "Posto de 2ª linha no Gebel Hibeita. A NH 36-6 põe o nome Gebel Hibeita no mesmo lugar, o que confirma a identificação",
         "cenas": [
           1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5587,
+          30.34228
+        ]
+      },
+      "properties": {
+        "id": "HURVA",
+        "nome": "Hurva (Horvah)",
+        "tipo": "forte",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 271",
+        "restricao": "Círculo 5929 junto ao rótulo חורבה, a leste do Grande Lago Amargo; seu observador viu a 25ª Brigada às 08h05 de 17/10",
+        "cenas": [
+          14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.61038,
+          30.5268
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_66",
+        "nome": "Ponto 66 da Akavish",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 171-174",
+        "restricao": "A 247ª carregou 34 botes aqui às 21h00 de 15/10",
+        "cenas": [
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.69995,
+          30.48644
+        ]
+      },
+      "properties": {
+        "id": "MAVDIL_76",
+        "nome": "Ponto 76 da Mavdil",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 172",
+        "restricao": "Estrada מבדיל; os botes foram por engano para cá em vez de Pundak 76",
+        "cenas": [
+          4,
+          8
         ]
       }
     }

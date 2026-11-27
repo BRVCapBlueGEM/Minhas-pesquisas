@@ -34,6 +34,12 @@ CONFERENCIAS = [
      "Missouri fica logo ao norte e noroeste da Fazenda Chinesa (centro da área)"),
     ("AKAVISH_53", "LAKEKAN", 8.0, 11.0,
      "Even & Maoz p. 235: 10 km pela estrada de Akavish 53 até Lakekan"),
+    ("AKAVISH_55", "KM_95_5", 10.0, 16.0,
+     "Even & Maoz p. 179: o ponto de lançamento ficava a 16 km de Akavish 55 (pela estrada)"),
+    ("YUKON", "MATZMED", 15.0, 25.0,
+     "Even & Maoz p. 144: Yukon fica a cerca de 20 km do canal"),
+    ("TASSA", "REFIDIM", 40.0, 75.0,
+     "Even & Maoz p. 227: 75 km de ônibus de Refidim a Tassa (linha reta é menor)"),
     ("TIRTUR_42", "FAZENDA_CHINESA", 1.0, 5.0,
      "O 890º foi atingido junto à Fazenda Chinesa"),
 ]
