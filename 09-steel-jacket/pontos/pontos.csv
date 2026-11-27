@@ -1,0 +1,19 @@
+id,nome,tipo,margem,lat,lon,incerteza_m,grau,metodo,fonte,restricao,cenas
+MATZMED,Forte Matzmed (Maoz) / cruzamento Lexicon-Tirtur,forte,leste,30.423143,32.361259,500,C,registro_projeto,"Registro P01 do projeto (IDENTIDADE_P01_MATZMED_YARD_2026-10-03.md); Wikipedia, Battle of the Chinese Farm","No cruzamento Lexicon-Tirtur; dois redutos a 500 m um do outro; se P01 e Matzmed A, B ou o Yard continua pendente",2;7;8;10;13;15
+LEXICON_TIRTUR,Cruzamento Lexicon-Tirtur,cruzamento,leste,30.423143,32.361259,1000,C,igual_a:MATZMED,"Wikipedia, Battle of the Chinese Farm","Wikipedia põe o cruzamento no Forte Matzmed; Even & Maoz (p. 184-185) descrevem posição antitanque egípcia no cruzamento; confirmar na Sirius",7
+AERODROMO_DEVERSOIR,Aeródromo de Deversoir (Abu Sultan),aerodromo,oeste,30.42278,32.33528,300,B,publicado,"Wikipedia, Deversoir Air Base (30°25'22""N 32°20'07""E)","Margem noroeste do Grande Lago Amargo; existia em 1973 (construído nos anos 1930)",11
+FAZENDA_CHINESA,Fazenda Chinesa (Amir) / al-Galaa,localidade,leste,30.45,32.40,1000,C,publicado_arredondado,"Wikipedia, Battle of the Chinese Farm, infobox 30°27'N 32°24'E","Logo ao norte do cruzamento Lexicon-Tirtur, na aldeia de al-Galaa; coordenada arredondada ao minuto",2;7;12;16
+REFIDIM,Refidim (Bir Gifgafa),aerodromo,leste,30.40722,33.15417,500,B,publicado,"Wikipedia, Bir Gifgafa Airfield (30°24'26""N 33°09'15""E)","Fora do tabuleiro; origem do 890º (75 km de ônibus até Tassa, Even & Maoz p. 227)",12
+LAKEKAN,Forte Lakekan (Tel Salam),forte,leste,,,,PENDENTE,pendente,"Wikipedia, Battle of the Chinese Farm; Even & Maoz","Cruzamento Lexicon-Akavish em Tel Salam, junto ao Grande Lago Amargo, 6 km ao sul de Deversoir",1;7;8;13
+MISSOURI,Missouri (maciço),elevacao,leste,,,,PENDENTE,pendente,"Wikipedia, Battle of the Chinese Farm","Logo ao norte e noroeste da Fazenda Chinesa; ficou com o Egito depois da batalha",2;6;17
+TASSA,Tassa (QG da 143ª),base,leste,,,,PENDENTE,pendente,"Wikipedia, Battle of the Chinese Farm; Even & Maoz","Cerca de 40 km a leste do canal (Wikipedia); ponta leste da Akavish (estrada Tassa-Tel Salam)",4;5;8;12
+YUKON,Yukon (pátio da ponte rolante),base,leste,,,,PENDENTE,pendente,Even & Maoz p. 144,"Cerca de 20 km do canal",3
+AKAVISH_55,Marco Akavish 55,marco_estrada,leste,,,,PENDENTE,pendente,Even & Maoz p. 179 e 227,"Na Akavish; a ponte rolante quebrou aqui, a 16 km do ponto de lançamento (km 95,5)",9;12
+AKAVISH_53,Marco Akavish 53,marco_estrada,leste,,,,PENDENTE,pendente,Even & Maoz p. 235,"Na Akavish; 10 km até Matzmed",13
+AKAVISH_42,Marco Akavish 42,marco_estrada,leste,,,,PENDENTE,pendente,Even & Maoz p. 230,"Na Akavish; onde o 890º foi atingido às 02h45 de 17/10",12
+KM_95_5,"Km 95,5 do canal (lançamento da ponte rolante)",ponto_travessia,leste,,,,PENDENTE,pendente,Even & Maoz p. 144 e 316,"Quilometragem do canal; medir pelo eixo do canal a partir da origem da quilometragem",9;16
+PATIO,O Pátio (Yard),ponto_travessia,leste,,,,PENDENTE,pendente,"Even & Maoz p. 274; Wikipedia, Battle of the Chinese Farm","Área de travessia cercada de areia; 500 x 150-200 m (Even & Maoz) ou 700 x 150 m (Wikipedia); a Tirtur dá acesso direto",10;13
+KISHUF,Kishuf (Gebel Hibeita),elevacao,leste,,,,PENDENTE,pendente,Fórum Steel Beasts (Kishuf = Jabal Hibayta),"Posto de 2ª linha; o nome Gebel Hibeita aparece na NH 36-6, então pode ser localizado nela",1
+HURVA,Hurva (Horvah),forte,leste,,,,PENDENTE,pendente,Even & Maoz p. 271; Fórum Steel Beasts,"Posto de 2ª linha (não guarnecido), 10-12 km do canal; seu observador viu a 25ª Brigada às 08h05 de 17/10",14
+LEXICON_NAKHALA,Cruzamento Lexicon-Nakhala,cruzamento,leste,,,,PENDENTE,pendente,Even & Maoz p. 84-88,"Alcançado pelo 87º em 9/10 sem encontrar o inimigo; limite norte da brecha",1
+PUNDAK_76,Pundak 76,marco_estrada,leste,,,,PENDENTE,pendente,Even & Maoz p. 171-172,"Ponto de partida da 247ª às 16h30 de 15/10; os botes foram por engano a Mavdil 76",8

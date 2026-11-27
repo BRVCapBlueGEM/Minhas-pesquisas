@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.361259,
+          30.423143
+        ]
+      },
+      "properties": {
+        "id": "MATZMED",
+        "nome": "Forte Matzmed (Maoz) / cruzamento Lexicon-Tirtur",
+        "tipo": "forte",
+        "margem": "leste",
+        "incerteza_m": 500,
+        "grau": "C",
+        "metodo": "registro_projeto",
+        "fonte": "Registro P01 do projeto (IDENTIDADE_P01_MATZMED_YARD_2026-10-03.md); Wikipedia, Battle of the Chinese Farm",
+        "restricao": "No cruzamento Lexicon-Tirtur; dois redutos a 500 m um do outro; se P01 e Matzmed A, B ou o Yard continua pendente",
+        "cenas": [
+          2,
+          7,
+          8,
+          10,
+          13,
+          15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.361259,
+          30.423143
+        ]
+      },
+      "properties": {
+        "id": "LEXICON_TIRTUR",
+        "nome": "Cruzamento Lexicon-Tirtur",
+        "tipo": "cruzamento",
+        "margem": "leste",
+        "incerteza_m": 1000,
+        "grau": "C",
+        "metodo": "igual_a:MATZMED",
+        "fonte": "Wikipedia, Battle of the Chinese Farm",
+        "restricao": "Wikipedia põe o cruzamento no Forte Matzmed; Even & Maoz (p. 184-185) descrevem posição antitanque egípcia no cruzamento; confirmar na Sirius",
+        "cenas": [
+          7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.33528,
+          30.42278
+        ]
+      },
+      "properties": {
+        "id": "AERODROMO_DEVERSOIR",
+        "nome": "Aeródromo de Deversoir (Abu Sultan)",
+        "tipo": "aerodromo",
+        "margem": "oeste",
+        "incerteza_m": 300,
+        "grau": "B",
+        "metodo": "publicado",
+        "fonte": "Wikipedia, Deversoir Air Base (30°25'22\"N 32°20'07\"E)",
+        "restricao": "Margem noroeste do Grande Lago Amargo; existia em 1973 (construído nos anos 1930)",
+        "cenas": [
+          11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4,
+          30.45
+        ]
+      },
+      "properties": {
+        "id": "FAZENDA_CHINESA",
+        "nome": "Fazenda Chinesa (Amir) / al-Galaa",
+        "tipo": "localidade",
+        "margem": "leste",
+        "incerteza_m": 1000,
+        "grau": "C",
+        "metodo": "publicado_arredondado",
+        "fonte": "Wikipedia, Battle of the Chinese Farm, infobox 30°27'N 32°24'E",
+        "restricao": "Logo ao norte do cruzamento Lexicon-Tirtur, na aldeia de al-Galaa; coordenada arredondada ao minuto",
+        "cenas": [
+          2,
+          7,
+          12,
+          16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.15417,
+          30.40722
+        ]
+      },
+      "properties": {
+        "id": "REFIDIM",
+        "nome": "Refidim (Bir Gifgafa)",
+        "tipo": "aerodromo",
+        "margem": "leste",
+        "incerteza_m": 500,
+        "grau": "B",
+        "metodo": "publicado",
+        "fonte": "Wikipedia, Bir Gifgafa Airfield (30°24'26\"N 33°09'15\"E)",
+        "restricao": "Fora do tabuleiro; origem do 890º (75 km de ônibus até Tassa, Even & Maoz p. 227)",
+        "cenas": [
+          12
+        ]
+      }
+    }
+  ]
+}
