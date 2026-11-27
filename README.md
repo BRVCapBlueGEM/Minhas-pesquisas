@@ -57,6 +57,7 @@ Cada ficha técnica procura responder:
 | **6. Cartografia digital** | Visão geral, Arquitetura A e B, edição e comparação | [06-cartografia](06-cartografia/README.md) |
 | **7. Critérios artísticos** | Critérios para comparação artística futura | [07-criterios-artisticos](07-criterios-artisticos/README.md) |
 | **8. Compilação de códigos-fonte** | Obtenção de originais, ferramentas, estrutura de trabalho, compilação, segurança e validação, para qualquer projeto | [08-compilacao-codigo-fonte](08-compilacao-codigo-fonte/README.md) |
+| **9. Steel Jacket** | Cartografia da Missão Sharon (Yom Kippur 1973): lista de pontos, setores e mapas | [09-steel-jacket](09-steel-jacket/README.md) |
 | **Política e situação** | Versões estáveis, situação geral e conclusão | [99-politica-e-situacao](99-politica-e-situacao/README.md) |
 
 ### Cartografia — subpáginas

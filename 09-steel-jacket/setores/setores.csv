@@ -1,0 +1,4 @@
+setor,nome,pontos_base,margem_m,fora_do_mapa,cenas,descricao
+B,Central — travessia,MATZMED;LAKEKAN;FAZENDA_CHINESA;MISSOURI;KISHUF;AERODROMO_DEVERSOIR;LEXICON_NAKHALA;PATIO;KM_95_5;AKAVISH_51;AKAVISH_52;AKAVISH_53;AKAVISH_55;PONTO_40;TIRTUR_42,1500,,1;2;6;7;9;10;11;12;13;15;16,Do canal (com a cabeça de ponte a oeste) até Akavish 55 e Kishuf
+A,Aproximação,TASSA;YUKON;AKAVISH_66;AKAVISH_55,1500,PUNDAK_76>TASSA;MAVDIL_76>TASSA;REFIDIM>TASSA,3;4;5;8,Retaguarda israelense: Tassa e Yukon até Akavish 55; Pundak 76 e Mavdil 76 entram pela borda leste
+C,Sul — 25ª Brigada,HURVA;LAKEKAN,2500,,14,Margem leste do Grande Lago Amargo de Lakekan até Hurva
