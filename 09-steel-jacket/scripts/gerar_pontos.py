@@ -26,6 +26,10 @@ CONFERENCIAS = [
      "A Fazenda Chinesa fica logo ao norte do cruzamento Lexicon-Tirtur (Matzmed)"),
     ("MATZMED", "REFIDIM", 70.0, 95.0,
      "Refidim fica a 80-90 km a leste do canal"),
+    ("MATZMED", "LAKEKAN", 3.0, 8.0,
+     "Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste"),
+    ("AERODROMO_DEVERSOIR", "LAKEKAN", 4.0, 9.0,
+     "Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia)"),
 ]
 
 

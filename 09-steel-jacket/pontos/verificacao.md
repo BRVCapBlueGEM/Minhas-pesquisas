@@ -3,22 +3,23 @@
 Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à mão.
 
 - Pontos no CSV: 18
-- Com coordenada: 5
-- Pendentes: 13
+- Com coordenada: 6
+- Pendentes: 12
 
 ## Conferências de coerência
 
 | A | B | Distância (km) | Esperado (km) | Resultado | Motivo |
 |---|---|---|---|---|---|
-| MATZMED | AERODROMO_DEVERSOIR | 2.49 | 1–5 | OK | Matzmed (margem leste) fica em frente a Deversoir (margem oeste) |
-| MATZMED | FAZENDA_CHINESA | 4.77 | 0.5–6 | OK | A Fazenda Chinesa fica logo ao norte do cruzamento Lexicon-Tirtur (Matzmed) |
-| MATZMED | REFIDIM | 76.05 | 70–95 | OK | Refidim fica a 80-90 km a leste do canal |
+| MATZMED | AERODROMO_DEVERSOIR | 2.28 | 1–5 | OK | Matzmed (margem leste) fica em frente a Deversoir (margem oeste) |
+| MATZMED | FAZENDA_CHINESA | 5.59 | 0.5–6 | OK | A Fazenda Chinesa fica logo ao norte do cruzamento Lexicon-Tirtur (Matzmed) |
+| MATZMED | REFIDIM | 76.42 | 70–95 | OK | Refidim fica a 80-90 km a leste do canal |
+| MATZMED | LAKEKAN | 4.97 | 3–8 | OK | Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste |
+| AERODROMO_DEVERSOIR | LAKEKAN | 7.24 | 4–9 | OK | Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia) |
 
 ## Pendentes (precisam de coordenada)
 
 | ID | Nome | Cenas | O que se sabe |
 |---|---|---|---|
-| LAKEKAN | Forte Lakekan (Tel Salam) | 1, 7, 8, 13 | Cruzamento Lexicon-Akavish em Tel Salam, junto ao Grande Lago Amargo, 6 km ao sul de Deversoir |
 | MISSOURI | Missouri (maciço) | 2, 6, 17 | Logo ao norte e noroeste da Fazenda Chinesa; ficou com o Egito depois da batalha |
 | TASSA | Tassa (QG da 143ª) | 4, 5, 8, 12 | Cerca de 40 km a leste do canal (Wikipedia); ponta leste da Akavish (estrada Tassa-Tel Salam) |
 | YUKON | Yukon (pátio da ponte rolante) | 3 | Cerca de 20 km do canal |

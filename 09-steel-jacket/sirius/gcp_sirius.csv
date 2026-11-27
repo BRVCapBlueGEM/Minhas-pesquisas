@@ -1,0 +1,7 @@
+id,folha,recorte_x,recorte_y,lon,lat,descricao
+G_2525,inferior,1173,1448,32.416667,30.416667,Cruzamento 32°25'E x 30°25'N (rótulos impressos)
+G_3525,inferior,2086,1455,32.583333,30.416667,Cruzamento 32°35'E x 30°25'N (rótulos impressos)
+G_3520,inferior,2084,1991,32.583333,30.333333,Cruzamento 32°35'E x 30°20'N (rótulo 20')
+G_2520,inferior,1171,1984,32.416667,30.333333,Cruzamento 32°25'E x 30°20'N (rótulo 20' no lago)
+G_2535,superior,1172,383,32.416667,30.583333,Cruzamento 32°25'E x 30°35'N (rótulos impressos)
+G_3535,superior,2096,387,32.583333,30.583333,Cruzamento 32°35'E x 30°35'N (rótulos impressos)

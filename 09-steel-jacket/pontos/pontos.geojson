@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.361259,
-          30.423143
+          32.35735,
+          30.41519
         ]
       },
       "properties": {
@@ -15,11 +15,11 @@
         "nome": "Forte Matzmed (Maoz) / cruzamento Lexicon-Tirtur",
         "tipo": "forte",
         "margem": "leste",
-        "incerteza_m": 500,
-        "grau": "C",
-        "metodo": "registro_projeto",
-        "fonte": "Registro P01 do projeto (IDENTIDADE_P01_MATZMED_YARD_2026-10-03.md); Wikipedia, Battle of the Chinese Farm",
-        "restricao": "No cruzamento Lexicon-Tirtur; dois redutos a 500 m um do outro; se P01 e Matzmed A, B ou o Yard continua pendente",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
+        "restricao": "Símbolo de forte junto ao rótulo מצמד, no cruzamento Lexicon-Tirtur. Substitui o P01 antigo (30.423143, 32.361259), que estava a 0,96 km daqui",
         "cenas": [
           2,
           7,
@@ -35,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.361259,
-          30.423143
+          32.35735,
+          30.41519
         ]
       },
       "properties": {
@@ -83,8 +83,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.4,
-          30.45
+          32.38307,
+          30.46029
         ]
       },
       "properties": {
@@ -92,11 +92,11 @@
         "nome": "Fazenda Chinesa (Amir) / al-Galaa",
         "tipo": "localidade",
         "margem": "leste",
-        "incerteza_m": 1000,
-        "grau": "C",
-        "metodo": "publicado_arredondado",
-        "fonte": "Wikipedia, Battle of the Chinese Farm, infobox 30°27'N 32°24'E",
-        "restricao": "Logo ao norte do cruzamento Lexicon-Tirtur, na aldeia de al-Galaa; coordenada arredondada ao minuto",
+        "incerteza_m": 500,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
+        "restricao": "Centro do círculo da área construída junto ao rótulo אמיר (Amir). A Wikipedia (30°27'N 32°24'E, arredondada ao minuto) fica a 2,0 km daqui",
         "cenas": [
           2,
           7,
@@ -126,6 +126,33 @@
         "restricao": "Fora do tabuleiro; origem do 890º (75 km de ônibus até Tassa, Even & Maoz p. 227)",
         "cenas": [
           12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.40434,
+          30.39637
+        ]
+      },
+      "properties": {
+        "id": "LAKEKAN",
+        "nome": "Forte Lakekan (Tel Salam)",
+        "tipo": "forte",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm; Even & Maoz",
+        "restricao": "Símbolo de forte junto ao rótulo לקקן; cruzamento Lexicon-Akavish em Tel Salam, margem nordeste do Grande Lago Amargo",
+        "cenas": [
+          1,
+          7,
+          8,
+          13
         ]
       }
     }
