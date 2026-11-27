@@ -41,3 +41,11 @@ A primeira conversão usou um recorte reduzido e misturou cruzamentos das folhas
 ## Missouri
 
 O objetivo Missouri (מיסורי) está desenhado na Sirius como um contorno magenta fechado, de cerca de 3,3 × 7,7 km, que atravessa a emenda E1/E2. Ele foi registrado como área (`areas.geojson`), e o ponto em `pontos.csv` é o centro do contorno. Na emenda, o desenho das duas folhas difere em cerca de 120 m.
+
+## Conferência independente com a AMS P502 NH 36-6
+
+O recorte `Steel_Jacket_Ismailia_NH36-6_Recorte.png` da carta norte-americana (anos 1950–60) foi georreferenciado pela quadrícula UTM impressa (quadrados VU, linhas a cada 10 km, zona 36). Foram usados 29 cruzamentos, com erro médio de 24 m e escala de 36 m por pixel. Depois, a Sirius convertida por folha foi projetada sobre ela: `sobreposicao_sirius_nh36-6.jpg`.
+
+Resultado visual: o Grande Lago Amargo, o canal, o Timsah e a Jerusalem Road coincidem nas duas cartas. As diferenças ficam em poucos pixels da NH (cerca de 100–200 m), abaixo do hexágono de 1 km. A NH também confirma que Kishuf é o Gebel Hibeita: o nome aparece no mesmo lugar nas duas cartas.
+
+Limite: a NH tem 36 m por pixel e não identifica o datum. A conferência vale como verificação independente da ordem de grandeza, não como medida de precisão métrica.

@@ -302,6 +302,30 @@
           11
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4665,
+          30.46042
+        ]
+      },
+      "properties": {
+        "id": "KISHUF",
+        "nome": "Kishuf (Gebel Hibeita)",
+        "tipo": "elevacao",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973 (rótulo גבל חביטה junto ao símbolo do posto), convertida pelo quadriculado; AMS P502 NH 36-6 (Gebel Hibeita, Bir Hibeita)",
+        "restricao": "Posto de 2ª linha no Gebel Hibeita. A NH 36-6 põe o nome Gebel Hibeita no mesmo lugar, o que confirma a identificação",
+        "cenas": [
+          1
+        ]
+      }
     }
   ]
 }
