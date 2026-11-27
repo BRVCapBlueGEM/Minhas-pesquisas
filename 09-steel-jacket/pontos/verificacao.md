@@ -2,9 +2,9 @@
 
 Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à mão.
 
-- Pontos no CSV: 18
-- Com coordenada: 7
-- Pendentes: 11
+- Pontos no CSV: 21
+- Com coordenada: 12
+- Pendentes: 9
 
 ## Conferências de coerência
 
@@ -16,6 +16,7 @@ Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à m�
 | MATZMED | LAKEKAN | 4.89 | 3–8 | OK | Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste |
 | AERODROMO_DEVERSOIR | LAKEKAN | 7.27 | 4–9 | OK | Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia) |
 | MISSOURI | FAZENDA_CHINESA | 4.56 | 2–7 | OK | Missouri fica logo ao norte e noroeste da Fazenda Chinesa (centro da área) |
+| TIRTUR_42 | FAZENDA_CHINESA | 3.55 | 1–5 | OK | O 890º foi atingido junto à Fazenda Chinesa |
 
 ## Pendentes (precisam de coordenada)
 
@@ -23,9 +24,7 @@ Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à m�
 |---|---|---|---|
 | TASSA | Tassa (QG da 143ª) | 4, 5, 8, 12 | Cerca de 40 km a leste do canal (Wikipedia); ponta leste da Akavish (estrada Tassa-Tel Salam) |
 | YUKON | Yukon (pátio da ponte rolante) | 3 | Cerca de 20 km do canal |
-| AKAVISH_55 | Marco Akavish 55 | 9, 12 | Na Akavish; a ponte rolante quebrou aqui, a 16 km do ponto de lançamento (km 95,5) |
-| AKAVISH_53 | Marco Akavish 53 | 13 | Na Akavish; 10 km até Matzmed |
-| AKAVISH_42 | Marco Akavish 42 | 12 | Na Akavish; onde o 890º foi atingido às 02h45 de 17/10 |
+| AKAVISH_42 | Marco Akavish 42 | 12 | Na Sirius, a Akavish não tem ponto 42 neste trecho (vai de 49 a 55 perto do canal). O 42 é do Tirtur (ver TIRTUR_42), ao lado da Fazenda Chinesa. Conferir Even & Maoz p. 230: provável "Tirtur 42" |
 | KM_95_5 | Km 95,5 do canal (lançamento da ponte rolante) | 9, 16 | Quilometragem do canal; medir pelo eixo do canal a partir da origem da quilometragem |
 | PATIO | O Pátio (Yard) | 10, 13 | Área de travessia cercada de areia; 500 x 150-200 m (Even & Maoz) ou 700 x 150 m (Wikipedia); a Tirtur dá acesso direto |
 | KISHUF | Kishuf (Gebel Hibeita) | 1 | Posto de 2ª linha; o nome Gebel Hibeita aparece na NH 36-6, então pode ser localizado nela |

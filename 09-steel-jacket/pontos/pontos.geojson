@@ -181,6 +181,127 @@
           17
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.49088,
+          30.49586
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_55",
+        "nome": "Marco Akavish 55",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 179 e 227",
+        "restricao": "Na Akavish, junto à emenda das folhas; a ponte rolante quebrou aqui (Even & Maoz: 16 km até o km 95,5). Os números das estradas na Sirius são pontos de referência com nome, não marcos de quilômetro: o espaçamento entre eles varia de 1,4 a 3,3 km",
+        "cenas": [
+          9,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.46596,
+          30.47508
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_53",
+        "nome": "Marco Akavish 53",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 235",
+        "restricao": "Na Akavish, no entroncamento com a estrada que vem de Missouri. DIVERGÊNCIA: Even & Maoz (p. 235) dizem 10 km até Matzmed, mas em linha reta já são 12,2 km (até Lakekan são 10,5 km). Conferir a página",
+        "cenas": [
+          13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.41969,
+          30.45261
+        ]
+      },
+      "properties": {
+        "id": "TIRTUR_42",
+        "nome": "Ponto 42 do Tirtur",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv",
+        "restricao": "Na estrada Tirtur (טרטור), 3,6 km a leste da Fazenda Chinesa. Candidato ao \"Akavish 42\" de Even & Maoz, onde o 890º foi atingido às 02h45 de 17/10",
+        "cenas": [
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.43976,
+          30.46204
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_52",
+        "nome": "Ponto 52 da Akavish",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 209-211",
+        "restricao": "Entre 52 e 51 os mísseis antitanque atingiram 4 tanques do 257º por volta das 08h30 de 16/10",
+        "cenas": [
+          11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.42512,
+          30.44357
+        ]
+      },
+      "properties": {
+        "id": "AKAVISH_51",
+        "nome": "Ponto 51 da Akavish",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 209-211",
+        "restricao": "Ver AKAVISH_52",
+        "cenas": [
+          11
+        ]
+      }
     }
   ]
 }
