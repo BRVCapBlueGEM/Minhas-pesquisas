@@ -30,6 +30,8 @@ CONFERENCIAS = [
      "Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste"),
     ("AERODROMO_DEVERSOIR", "LAKEKAN", 4.0, 9.0,
      "Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia)"),
+    ("MISSOURI", "FAZENDA_CHINESA", 2.0, 7.0,
+     "Missouri fica logo ao norte e noroeste da Fazenda Chinesa (centro da área)"),
 ]
 
 

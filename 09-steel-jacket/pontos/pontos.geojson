@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.35735,
-          30.41519
+          32.35861,
+          30.41541
         ]
       },
       "properties": {
@@ -18,8 +18,8 @@
         "incerteza_m": 250,
         "grau": "B",
         "metodo": "sirius_quadriculado",
-        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
-        "restricao": "Símbolo de forte junto ao rótulo מצמד, no cruzamento Lexicon-Tirtur. Substitui o P01 antigo (30.423143, 32.361259), que estava a 0,96 km daqui",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
+        "restricao": "Símbolo de forte junto ao rótulo מצמד, no cruzamento Lexicon-Tirtur. O P01 antigo (30.423143, 32.361259) estava a cerca de 0,9 km daqui",
         "cenas": [
           2,
           7,
@@ -35,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.35735,
-          30.41519
+          32.35861,
+          30.41541
         ]
       },
       "properties": {
@@ -83,8 +83,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.38307,
-          30.46029
+          32.38371,
+          30.46032
         ]
       },
       "properties": {
@@ -95,7 +95,7 @@
         "incerteza_m": 500,
         "grau": "B",
         "metodo": "sirius_quadriculado",
-        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm",
         "restricao": "Centro do círculo da área construída junto ao rótulo אמיר (Amir). A Wikipedia (30°27'N 32°24'E, arredondada ao minuto) fica a 2,0 km daqui",
         "cenas": [
           2,
@@ -134,8 +134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.40434,
-          30.39637
+          32.40464,
+          30.39641
         ]
       },
       "properties": {
@@ -146,13 +146,39 @@
         "incerteza_m": 250,
         "grau": "B",
         "metodo": "sirius_quadriculado",
-        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado impresso: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm; Even & Maoz",
+        "fonte": "Sirius 1973 (minas atualizadas até 1/10/73), convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Wikipedia, Battle of the Chinese Farm; Even & Maoz",
         "restricao": "Símbolo de forte junto ao rótulo לקקן; cruzamento Lexicon-Akavish em Tel Salam, margem nordeste do Grande Lago Amargo",
         "cenas": [
           1,
           7,
           8,
           13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3928,
+          30.50054
+        ]
+      },
+      "properties": {
+        "id": "MISSOURI",
+        "nome": "Missouri (maciço)",
+        "tipo": "area",
+        "margem": "leste",
+        "incerteza_m": null,
+        "grau": "B",
+        "metodo": "sirius_area",
+        "fonte": "Sirius 1973, contorno magenta do objetivo מיסורי convertido pelo quadriculado: sirius/areas.geojson; Wikipedia, Battle of the Chinese Farm",
+        "restricao": "Área de cerca de 3,3 x 7,7 km; o ponto é o centro do contorno. Atravessa a emenda das folhas E1/E2; o polígono está em sirius/areas.geojson",
+        "cenas": [
+          2,
+          6,
+          17
         ]
       }
     }

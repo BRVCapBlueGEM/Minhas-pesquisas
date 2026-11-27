@@ -58,7 +58,7 @@ A malha usa 1 km entre centros. Um erro de até ~300 m não muda o hexágono na 
 
 ## 9.5. Sirius → coordenadas
 
-A pasta `sirius/` converte pixels da Sirius em latitude e longitude usando o quadriculado geográfico impresso na carta (ver [sirius/README.md](sirius/README.md)). Matzmed, Lakekan e a Fazenda Chinesa já foram convertidos por esse caminho.
+A pasta `sirius/` converte pixels da Sirius em latitude e longitude usando o quadriculado geográfico impresso na carta (ver [sirius/README.md](sirius/README.md)). Matzmed, Lakekan, a Fazenda Chinesa e a área de Missouri já foram convertidos por esse caminho, cada um pela transformação da sua folha do mosaico.
 
 ```
 python scripts\sirius_converter.py
@@ -67,6 +67,6 @@ python scripts\gerar_pontos.py
 
 ## 9.6. Próximos passos
 
-1. Folha superior da Sirius: obter um terceiro cruzamento do quadriculado, ao norte de 30°35′, para converter Missouri e Tassa.
-2. Marcar na Sirius os marcos da Akavish (42, 53, 55), o km 95,5, Hurva e Kishuf.
+1. Marcar na Sirius os marcos da Akavish (42, 53, 55), o km 95,5, Hurva e Kishuf.
+2. Identificar Tassa na Sirius (nome hebraico a confirmar).
 3. Calcular os setores a partir dos pontos.

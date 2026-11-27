@@ -1,5 +1,4 @@
 id,folha,sirius_x,sirius_y,lat,lon,descricao
-MATZMED,inferior,2488,8194,30.41519,32.35735,Símbolo verde de forte junto ao rótulo מצמד (reduto principal)
-MATZMED_2,inferior,2472,8199,30.41455,32.35498,Segundo símbolo junto a Matzmed (segundo reduto?)
-LAKEKAN,inferior,2787,8338,30.39637,32.40434,Símbolo verde de forte junto ao rótulo לקקן (ao lado do círculo 6124)
-FAZENDA_CHINESA,inferior,2653,7858,30.46029,32.38307,Centro do círculo magenta da área construída junto ao rótulo אמיר (Amir)
+MATZMED,E2,2488,8194,30.41541,32.35861,Símbolo verde de forte junto ao rótulo מצמד
+LAKEKAN,E2,2787,8338,30.39641,32.40464,Símbolo verde de forte junto ao rótulo לקקן (ao lado do círculo 6124)
+FAZENDA_CHINESA,E2,2653,7858,30.46032,32.38371,Centro do círculo magenta da área construída junto ao rótulo אמיר (Amir)

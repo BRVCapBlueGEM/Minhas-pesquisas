@@ -3,24 +3,24 @@
 Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à mão.
 
 - Pontos no CSV: 18
-- Com coordenada: 6
-- Pendentes: 12
+- Com coordenada: 7
+- Pendentes: 11
 
 ## Conferências de coerência
 
 | A | B | Distância (km) | Esperado (km) | Resultado | Motivo |
 |---|---|---|---|---|---|
-| MATZMED | AERODROMO_DEVERSOIR | 2.28 | 1–5 | OK | Matzmed (margem leste) fica em frente a Deversoir (margem oeste) |
-| MATZMED | FAZENDA_CHINESA | 5.59 | 0.5–6 | OK | A Fazenda Chinesa fica logo ao norte do cruzamento Lexicon-Tirtur (Matzmed) |
-| MATZMED | REFIDIM | 76.42 | 70–95 | OK | Refidim fica a 80-90 km a leste do canal |
-| MATZMED | LAKEKAN | 4.97 | 3–8 | OK | Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste |
-| AERODROMO_DEVERSOIR | LAKEKAN | 7.24 | 4–9 | OK | Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia) |
+| MATZMED | AERODROMO_DEVERSOIR | 2.38 | 1–5 | OK | Matzmed (margem leste) fica em frente a Deversoir (margem oeste) |
+| MATZMED | FAZENDA_CHINESA | 5.54 | 0.5–6 | OK | A Fazenda Chinesa fica logo ao norte do cruzamento Lexicon-Tirtur (Matzmed) |
+| MATZMED | REFIDIM | 76.30 | 70–95 | OK | Refidim fica a 80-90 km a leste do canal |
+| MATZMED | LAKEKAN | 4.89 | 3–8 | OK | Os dois fortes ficam na ponta norte do Grande Lago Amargo, Lakekan a sudeste |
+| AERODROMO_DEVERSOIR | LAKEKAN | 7.27 | 4–9 | OK | Lakekan fica cerca de 6 km ao sul de Deversoir (Wikipedia) |
+| MISSOURI | FAZENDA_CHINESA | 4.56 | 2–7 | OK | Missouri fica logo ao norte e noroeste da Fazenda Chinesa (centro da área) |
 
 ## Pendentes (precisam de coordenada)
 
 | ID | Nome | Cenas | O que se sabe |
 |---|---|---|---|
-| MISSOURI | Missouri (maciço) | 2, 6, 17 | Logo ao norte e noroeste da Fazenda Chinesa; ficou com o Egito depois da batalha |
 | TASSA | Tassa (QG da 143ª) | 4, 5, 8, 12 | Cerca de 40 km a leste do canal (Wikipedia); ponta leste da Akavish (estrada Tassa-Tel Salam) |
 | YUKON | Yukon (pátio da ponte rolante) | 3 | Cerca de 20 km do canal |
 | AKAVISH_55 | Marco Akavish 55 | 9, 12 | Na Akavish; a ponte rolante quebrou aqui, a 16 km do ponto de lançamento (km 95,5) |
