@@ -8,7 +8,8 @@ O carimbo verde no centro da carta diz, em hebraico, que as minas estão "atuali
 
 | Arquivo | Conteúdo |
 |---|---|
-| `gcp_sirius.csv` | 24 cruzamentos do quadriculado (pixel → lon/lat), com a folha de cada um |
+| `gcp_sirius.csv` | 25 cruzamentos do quadriculado (pixel → lon/lat), com a folha de cada um |
+| `glossario.csv` | Nomes do livro (Even & Maoz) e como aparecem escritos na Sirius |
 | `pontos_sirius_px.csv` | Pontos marcados na Sirius. **Editar aqui.** |
 | `areas_sirius_px.csv` | Contornos marcados na Sirius, com vértices em ordem. **Editar aqui.** |
 | `pontos_sirius_convertidos.csv`, `areas.geojson` | Gerados por `scripts/sirius_converter.py`. Não editar. |
@@ -23,7 +24,7 @@ A Sirius é feita de folhas emendadas que **não coincidem** nas emendas: o mesm
 |---|---|---|---|---|
 | E1 (oeste, norte) | X < 3400, Y 5700–7540 | 6 | 19 m | 27 m |
 | E2 (oeste, sul) | X < 3400, Y 7540–9400 | 6 | 16 m | 21 m |
-| D1 (leste, norte) | X ≥ 3400, Y 5700–7540 | 6 | 8 m | 10 m |
+| D1 (leste, norte) | X ≥ 3400, Y 5700–7540 | 7 | 12 m | 19 m |
 | D2 (leste, sul) | X ≥ 3400, Y 7540–9400 | 6 | 49 m | 77 m |
 
 Escala: cerca de 67,5 px por km (1 px ≈ 15 m).
@@ -49,3 +50,5 @@ O recorte `Steel_Jacket_Ismailia_NH36-6_Recorte.png` da carta norte-americana (a
 Resultado visual: o Grande Lago Amargo, o canal, o Timsah e a Jerusalem Road coincidem nas duas cartas. As diferenças ficam em poucos pixels da NH (cerca de 100–200 m), abaixo do hexágono de 1 km. A NH também confirma que Kishuf é o Gebel Hibeita: o nome aparece no mesmo lugar nas duas cartas.
 
 Limite: a NH tem 36 m por pixel e não identifica o datum. A conferência vale como verificação independente da ordem de grandeza, não como medida de precisão métrica.
+
+A folha D1 foi conferida por extrapolação até X 6108 (cruzamento 32°55′ × 30°35′, no bloco X6000): o erro foi de 51 m antes de incluir esse cruzamento no ajuste. Isso sustenta o uso da folha D2 para Pundak 76, também no bloco X6000.

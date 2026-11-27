@@ -12,8 +12,11 @@ TIRTUR_42,E2,2887,7917,30.45261,32.41969,Marco 42 do Tirtur (טרטור); a Akav
 KISHUF,E2,3192,7860,30.46042,32.46650,Símbolo verde de posição no círculo 6326
 PONTO_40,E2,2982,7802,30.46801,32.43420,Ponto 40 (marca sobre a estrada junto ao símbolo verde); Even & Maoz: linha de partida do 890º
 KM_95_5,E2,2475,8053,30.43420,32.35651,"Quilometragem do canal impressa na Sirius (ק""מ 95 e 98-101); 95"
-AKAVISH_66,D1,4120,7375,30.52680,32.61038,Ponto 66 da Akavish (עכביש) junto ao círculo ענוש
+AKAVISH_66,D1,4120,7375,30.52679,32.61037,Ponto 66 da Akavish (עכביש) junto ao círculo ענוש
 HURVA,D2,3768,8752,30.34228,32.55870,Círculo 5929 junto ao rótulo חורבה
-YUKON,D1,3640,7345,30.53074,32.53629,Rótulo יוקון (área; sem símbolo de posição)
+YUKON,D1,3640,7345,30.53080,32.53636,Rótulo יוקון (área; sem símbolo de posição)
 MAVDIL_76,D2,4690,7675,30.48644,32.69995,Traço 76 da estrada מבדיל (Mavdil)
-TASSA_CANDIDATO,D1,4210,7150,30.55686,32.62419,Centro do complexo junto ao rótulo ציילון (áreas 1-4) onde termina a Akavish
+TASSA,D1,4210,7150,30.55685,32.62419,Complexo de áreas 1-4 junto ao rótulo ציילון onde termina a Akavish; Even & Maoz p. 168 põe o QG da 143ª em Tasa no fim da Akavish
+PUNDAK_76,D2,6465,7625,30.49249,32.97272,Traço 76 da estrada פונדק (Pundak)
+PATIO,E2,2492,8177,30.41768,32.35921,Centro do Pátio entre Matzmed Sul (forte) e Matzmed Norte; rótulo מתחם לגשר צף junto à margem
+LEXICON_NAKHALA,E2,2502,8175,30.41795,32.36075,Entrada do eixo Nakhala (נחלה) no lado leste do Pátio

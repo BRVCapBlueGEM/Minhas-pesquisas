@@ -188,7 +188,7 @@
         "type": "Point",
         "coordinates": [
           32.62419,
-          30.55686
+          30.55685
         ]
       },
       "properties": {
@@ -196,11 +196,11 @@
         "nome": "Tassa (QG da 143ª)",
         "tipo": "base",
         "margem": "leste",
-        "incerteza_m": 1500,
-        "grau": "C",
-        "metodo": "sirius_candidato",
-        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz",
-        "restricao": "CANDIDATO, NÃO CONFIRMADO: complexo de áreas 1-4 junto ao rótulo ציילון, onde termina a Akavish (3,6 km de Akavish 66). Fica a 30 km de Matzmed e a 53 km em linha reta de Refidim (o livro dá 75 km de ônibus). O nome Tassa não aparece escrito na Sirius",
+        "incerteza_m": 1000,
+        "grau": "B",
+        "metodo": "sirius_mais_croqui",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 168 (mapa: \"143rd Div HQ, Tasa\" no extremo da Akavish, depois de Yukon); p. 88",
+        "restricao": "O nome Tasa não está escrito na Sirius. O mapa do livro põe o QG da 143ª em Tasa no fim da Akavish, depois de Yukon; na Sirius a Akavish termina no complexo de áreas 1-4 junto ao rótulo ציילון. Fica a 30 km de Matzmed e a 53 km em linha reta de Refidim (75 km de ônibus no livro)",
         "cenas": [
           4,
           5,
@@ -420,10 +420,35 @@
         "grau": "B",
         "metodo": "sirius_quadriculado",
         "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 144 e 316",
-        "restricao": "A Sirius imprime a quilometragem do canal (ק\"מ 95, 98, 99, 100, 101); o 95,5 foi interpolado entre os traços. Fica 2,1 km ao norte do forte Matzmed e 14,6 km em linha reta de Akavish 55 (o livro dá 16 km)",
+        "restricao": "A Sirius imprime a quilometragem do canal (ק\"מ 95, 99, 100, 101); o 95,5 foi interpolado. Fica 2,1 km ao norte do forte Matzmed e 1,8 km ao norte do centro do Pátio; Even & Maoz p. 314 dizem \"ao norte do Yard\". De Akavish 55 são 14,6 km em linha reta (o livro dá 16 km)",
         "cenas": [
           9,
           16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.35921,
+          30.41768
+        ]
+      },
+      "properties": {
+        "id": "PATIO",
+        "nome": "O Pátio (Yard)",
+        "tipo": "ponto_travessia",
+        "margem": "leste",
+        "incerteza_m": 250,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 151 (croqui), 274 e 314",
+        "restricao": "Retângulo de terra de 500 x 150-200 m na margem leste, entre Matzmed Sul (o forte) e Matzmed Norte (\"A\"). Na Sirius há o rótulo מתחם לגשר צף junto à margem. O Tirtur entra pelo nordeste e a Nakhala pelo leste. O km 95,5, onde a ponte rolante foi lançada, fica ao norte do Pátio",
+        "cenas": [
+          10,
+          13
         ]
       }
     },
@@ -472,6 +497,54 @@
         "restricao": "Círculo 5929 junto ao rótulo חורבה, a leste do Grande Lago Amargo; seu observador viu a 25ª Brigada às 08h05 de 17/10",
         "cenas": [
           14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.36075,
+          30.41795
+        ]
+      },
+      "properties": {
+        "id": "LEXICON_NAKHALA",
+        "nome": "Cruzamento Lexicon-Nakhala",
+        "tipo": "cruzamento",
+        "margem": "leste",
+        "incerteza_m": 500,
+        "grau": "C",
+        "metodo": "sirius_mais_croqui",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv; Even & Maoz p. 85, 88 e 151",
+        "restricao": "O 87º contornou Kishuf pelo sul até Graphite e subiu pela Lexicon até a junção com a Nakhala, ao norte de Lakekan (limite norte da brecha). O croqui do Pátio mostra a Nakhala entrando pelo leste do Pátio; a posição é a dessa entrada",
+        "cenas": [
+          1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.97272,
+          30.49249
+        ]
+      },
+      "properties": {
+        "id": "PUNDAK_76",
+        "nome": "Pundak 76",
+        "tipo": "marco_estrada",
+        "margem": "leste",
+        "incerteza_m": 300,
+        "grau": "B",
+        "metodo": "sirius_quadriculado",
+        "fonte": "Sirius 1973, convertida pelo quadriculado da própria folha: sirius/pontos_sirius_convertidos.csv (bloco X6000; folha D2 extrapolada, teste de extrapolação na D1 com erro de 51 m); Even & Maoz p. 171-172",
+        "restricao": "Ponto 76 da estrada פונדק, a 34 km em linha reta de Tassa. A 247ª saiu daqui às 16h30 de 15/10 e chegou a Tassa às 18h30",
+        "cenas": [
+          8
         ]
       }
     },

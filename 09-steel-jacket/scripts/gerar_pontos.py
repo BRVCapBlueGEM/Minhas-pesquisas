@@ -40,6 +40,8 @@ CONFERENCIAS = [
      "Even & Maoz p. 144: Yukon fica a cerca de 20 km do canal"),
     ("TASSA", "REFIDIM", 40.0, 75.0,
      "Even & Maoz p. 227: 75 km de ônibus de Refidim a Tassa (linha reta é menor)"),
+    ("PATIO", "MATZMED", 0.1, 0.6,
+     "Even & Maoz p. 274: o Pátio fica entre Matzmed Sul e Matzmed Norte (500 m)"),
     ("TIRTUR_42", "FAZENDA_CHINESA", 1.0, 5.0,
      "O 890º foi atingido junto à Fazenda Chinesa"),
 ]

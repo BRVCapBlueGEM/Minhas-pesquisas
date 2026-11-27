@@ -3,8 +3,8 @@
 Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à mão.
 
 - Pontos no CSV: 24
-- Com coordenada: 21
-- Pendentes: 3
+- Com coordenada: 24
+- Pendentes: 0
 
 ## Conferências de coerência
 
@@ -20,12 +20,10 @@ Gerado por `scripts/gerar_pontos.py` a partir de `pontos.csv`. Não editar à m�
 | AKAVISH_55 | KM_95_5 | 14.59 | 10–16 | OK | Even & Maoz p. 179: o ponto de lançamento ficava a 16 km de Akavish 55 (pela estrada) |
 | YUKON | MATZMED | 21.32 | 15–25 | OK | Even & Maoz p. 144: Yukon fica a cerca de 20 km do canal |
 | TASSA | REFIDIM | 53.44 | 40–75 | OK | Even & Maoz p. 227: 75 km de ônibus de Refidim a Tassa (linha reta é menor) |
+| PATIO | MATZMED | 0.26 | 0.1–0.6 | OK | Even & Maoz p. 274: o Pátio fica entre Matzmed Sul e Matzmed Norte (500 m) |
 | TIRTUR_42 | FAZENDA_CHINESA | 3.55 | 1–5 | OK | O 890º foi atingido junto à Fazenda Chinesa |
 
 ## Pendentes (precisam de coordenada)
 
 | ID | Nome | Cenas | O que se sabe |
 |---|---|---|---|
-| PATIO | O Pátio (Yard) | 10, 13 | Área de travessia cercada de areia; 500 x 150-200 m (Even & Maoz) ou 700 x 150 m (Wikipedia); a Tirtur dá acesso direto |
-| LEXICON_NAKHALA | Cruzamento Lexicon-Nakhala | 1 | Alcançado pelo 87º em 9/10 sem encontrar o inimigo; limite norte da brecha |
-| PUNDAK_76 | Pundak 76 | 8 | Ponto 76 da estrada פונדק (Pundak). Na Sirius, a Pundak sai do complexo ציילון para leste com os pontos 98, 94, 93, 91, 89, 86, 82; o 76 fica mais a leste, além do X 6000 (fora dos blocos recebidos) |
